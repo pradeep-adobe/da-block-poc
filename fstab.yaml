@@ -1,4 +1,0 @@
-mountpoints:
-  /:
-    url: https://content.da.live/pradeep-adobe/da-block-poc/
-    type: markup
